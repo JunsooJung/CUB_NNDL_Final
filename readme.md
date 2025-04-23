@@ -19,7 +19,7 @@ Using this command.
 ```shell
 py inat_downloader.py -o 5000 -q research -l cc-by,cc-by-nc,cc0 -s medium
 ```
-will download from 5000 uploaders with research grade images with maximum 500px on the longest side.
+will download the species in 'species.csv' from 5000 uploaders at [iNaturalist](https://www.inaturalist.org/) with research grade images with maximum 500px on the longest side.
 
 ### inat_cleaner.ipynb
 
